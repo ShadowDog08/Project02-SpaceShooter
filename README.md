@@ -2,6 +2,7 @@
 
 # Asteroid Space Shooter
 Project for MSCH-C220 - 2/9/2024
+
 A space shooter where you dodge enemy bullets and shoot down asteroids. Use WASD to move the ship, and Space to shoot.
 
 ## Implementation
