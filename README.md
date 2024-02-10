@@ -1,8 +1,9 @@
 # Project02-SpaceShooter
 
-# Project Name
-Context and date
-Description
+# Asteroid Space Shooter
+Project for MSCH-C220 - 2/9/2024
+A space shooter where you dodge enemy bullets and shoot down asteroids. Use WASD to move the ship, and Space to shoot.
+
 ## Implementation
 Created using [Unity 2022.3.17f1](https://unity.com/download)
 
@@ -15,8 +16,8 @@ Music is provided by [Oblidivm](https://opengameart.org/content/space-shooter-mu
 SFX is provided by [cabled_mess](https://freesound.org/people/cabled_mess/sounds/350912/), provided under a [CC0 0.0 Public Domain License](https://creativecommons.org/public-domain/cc0/).
 
 ## References
-None
+* [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
 ## Future Development
-Adding more levels, sound, and enemies
+None
 ## Created by
 Brenden Wood
